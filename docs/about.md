@@ -3,30 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Hello!  My name is Marianna Ghirardelli, and I am currently a Senior Computer Science and Mathematics double major at Davidson College.  I will be graduating in May 2021 and starting work at Amazon Web Services as a Software Development Engineer in July 2021.  I am interested in the intersection of math and computer science as well as novel algorithms!  Outside of coding and math, I read, cook, and am a photographer!
 
 ## Current Role
 
+Student @ Davidson College
 Grace Hopper Celebration Attendee
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
+Davidson College Hackathon Overall Winner (September 2018)
