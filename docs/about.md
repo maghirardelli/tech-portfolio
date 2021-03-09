@@ -8,7 +8,6 @@ Hello!  My name is Marianna Ghirardelli, and I am currently a Senior Computer Sc
 ## Current Role
 
 Student @ Davidson College
-
 Grace Hopper Celebration Attendee
 
 ## Recognition
