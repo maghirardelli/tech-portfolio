@@ -4,9 +4,16 @@ title: Projects
 ---
 
 ## WiCS Hackathon Win
-The Davidson College Women in Computer Science club (WiCS-formerly FiCSIT) sent an all-woman team to the 2018 Hackathon at Davidson College. We were awarded “Best Overall Team” award based on both coding skills and presentation/communication skills to explain our project. Our task was to create a product that shared the experience of Davidson College with a designated audience. Our product was a web app with two Python programs on the back end to share the experience of a woman in STEM at Davidson with high school and college-age women interested in a career in STEM.
-![image](./assets/HackathonHub.jpg)
-![image](./assets/HackathonHubFun.jpg)
+The Davidson College Women in Computer Science club (WiCS-formerly FiCSIT) sent an all-woman team to the 2018 Hackathon at Davidson College. We ([Sarah Hancock](https://www.linkedin.com/in/sarhancock/), [Natlie Kucher](https://www.linkedin.com/in/natalie-kucher-5b214a122/), [Elein Tsitinidi](https://www.linkedin.com/in/eleni-tsit/), and myself) were awarded “Best Overall Team” award based on both coding skills and presentation/communication skills to explain our project. Our task was to create a product that shared the experience of Davidson College with a designated audience. Our product was a web app with two Python programs on the back end to share the experience of a woman in STEM at Davidson with high school and college-age women interested in a career in STEM.
+<center>
+  <p float="left">
+  <img src="./assets/HackathonHub.jpg" width="450" />
+  <img src="./assets/HackathonHubFun.jpg" width="450" /> 
+  </p>
+</center>
+<!--![image](./assets/HackathonHub.jpg)
+![image](./assets/HackathonHubFun.jpg)-->
+
 Read more about it [here](https://wildcatparents.davidson.edu/2018/12/all-female-team-wins-hackathon/)!
 
 ## Pandemic Simulation
