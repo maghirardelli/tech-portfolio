@@ -73,7 +73,7 @@ const siteConfig = {
         linkedin: 'marianna-ghirardelli',
         twitter: 'marvelouscode',
         github: 'maghirardelli',
-        goodreads: 'theobsessivecupcake',
+        // goodreads: 'theobsessivecupcake',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
