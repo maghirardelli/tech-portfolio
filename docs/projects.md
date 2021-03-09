@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ## WiCS Hackathon Win
-The Davidson College Women in Computer Science club (WiCS-formerly FiCSIT) sent an all-woman team to the 2018 Hackathon at Davidson College. We ([Sarah Hancock](https://www.linkedin.com/in/sarhancock/), [Natlie Kucher](https://www.linkedin.com/in/natalie-kucher-5b214a122/), [Elein Tsitinidi](https://www.linkedin.com/in/eleni-tsit/), and myself) were awarded “Best Overall Team” award based on both coding skills and presentation/communication skills to explain our project. Our task was to create a product that shared the experience of Davidson College with a designated audience. Our product was a web app with two Python programs on the back end to share the experience of a woman in STEM at Davidson with high school and college-age women interested in a career in STEM.
+The Davidson College Women in Computer Science club (WiCS-formerly FiCSIT) sent an all-woman team to the 2018 Hackathon at Davidson College. We ([Sarah Hancock](https://www.linkedin.com/in/sarhancock/), [Natalie Kucher](https://www.linkedin.com/in/natalie-kucher-5b214a122/), [Eleni Tsitinidi](https://www.linkedin.com/in/eleni-tsit/), and myself) were awarded “Best Overall Team” award based on both coding skills and presentation/communication skills to explain our project. Our task was to create a product that shared the experience of Davidson College with a designated audience. Our product was a web app with two Python programs on the back end to share the experience of a woman in STEM at Davidson with high school and college-age women interested in a career in STEM.
 <p align="middle">
 <img src="./assets/HackathonHub.jpg" width="49%" />
 <img src="./assets/HackathonHubFun.jpg" width="49%" /> 
