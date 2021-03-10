@@ -14,7 +14,7 @@ const users = [];
 // How you would like to make the site look:
 const siteConfig = {
     title: 'Marianna Ghirardelli', // Title for your website.
-    tagline: 'Math && CS && Food && Books && Photography',
+    tagline: 'Math && CS && Food && Books',
     profilePhoto: 'img/Davidson.png',
     url: 'https://maghirardelli.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
