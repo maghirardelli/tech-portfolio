@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maghirardelli.github.io/tech-portfolio/blog</id>
+    <title>Marianna Ghirardelli Blog</title>
+    <updated>2021-03-08T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://maghirardelli.github.io/tech-portfolio/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Marianna Ghirardelli news and events.</subtitle>
+    <logo>https://maghirardelli.github.io/tech-portfolio/undefined</logo>
+    <rights>Copyright © 2021 Marianna Ghirardelli</rights>
+    <entry>
+        <title type="html"><![CDATA[WiCS Tech Portfolio Workshop]]></title>
+        <id>https://maghirardelli.github.io/tech-portfolio/blog/2021/03/08/blog-post.html</id>
+        <link href="https://maghirardelli.github.io/tech-portfolio/blog/2021/03/08/blog-post.html"/>
+        <updated>2021-03-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Using the tech portfolio I learned about during Virtual Grace Hopper Celebration 2020, I introduced the Davidson College Women in Computer Science (WiCS) club to GitPages, Markdown, and Git Actions! We used the fantastic template found <a href="https://github.com/joatmon08/tech-portfolio">here</a>.</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vGHC 2020]]></title>
+        <id>https://maghirardelli.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</id>
+        <link href="https://maghirardelli.github.io/tech-portfolio/blog/2020/10/02/blog-post.html"/>
+        <updated>2020-10-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I learned how to create my technical portfolio at Grace Hopper Celebration 2020!</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>

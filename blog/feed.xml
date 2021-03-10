@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Marianna Ghirardelli Blog</title>
+        <link>https://maghirardelli.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Marianna Ghirardelli news and events.</description>
+        <lastBuildDate>Mon, 08 Mar 2021 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Marianna Ghirardelli Blog</title>
+            <url>https://maghirardelli.github.io/tech-portfolio/undefined</url>
+            <link>https://maghirardelli.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2021 Marianna Ghirardelli</copyright>
+        <item>
+            <title><![CDATA[WiCS Tech Portfolio Workshop]]></title>
+            <link>https://maghirardelli.github.io/tech-portfolio/blog/2021/03/08/blog-post.html</link>
+            <guid>https://maghirardelli.github.io/tech-portfolio/blog/2021/03/08/blog-post.html</guid>
+            <pubDate>Mon, 08 Mar 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Using the tech portfolio I learned about during Virtual Grace Hopper Celebration 2020, I introduced the Davidson College Women in Computer Science (WiCS) club to GitPages, Markdown, and Git Actions! We used the fantastic template found <a href="https://github.com/joatmon08/tech-portfolio">here</a>.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[vGHC 2020]]></title>
+            <link>https://maghirardelli.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</link>
+            <guid>https://maghirardelli.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I learned how to create my technical portfolio at Grace Hopper Celebration 2020!</p> ]]></description>
+        </item>
+    </channel>
+</rss>
