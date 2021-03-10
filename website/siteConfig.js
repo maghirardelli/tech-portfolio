@@ -73,6 +73,7 @@ const siteConfig = {
         linkedin: 'marianna-ghirardelli',
         twitter: 'marvelouscode',
         github: 'maghirardelli',
+        instagram: 'photosby.mar',
         // goodreads: 'theobsessivecupcake',
     },
 
